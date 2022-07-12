@@ -29,7 +29,7 @@ public class User implements Serializable {
 
     public User(UserRequest user) {
         this.name = user.getName();
-        this.userName = user.getUserName();
+        this.userName = user.getUsername();
         this.password = user.getPassword();
         this.status = 1;
         this.ts_insert = LocalDateTime.now();
