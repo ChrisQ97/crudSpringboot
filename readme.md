@@ -1,4 +1,4 @@
-##CRUD Spring boot
+# CRUD Spring boot
 
 This project is realized with java 11, maven, spring boot, maria db 10.3.35
 Open the project and run the pom.xml to update the dependencies and resources.
